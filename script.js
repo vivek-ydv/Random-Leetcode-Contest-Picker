@@ -2,9 +2,9 @@ const pickContestBtn = document.getElementById('pick-contest-btn');
 const contestResult = document.getElementById('contest-result');
 const contestType = document.getElementById('contest-type-select');
 const MIN_WEEKLY_CONTEST_NUMBER = 58;
-const MAX_WEEKLY_CONTEST_NUMBER = 200;
+const MAX_WEEKLY_CONTEST_NUMBER = 350;
 const MIN_BIWEEKLY_CONTEST_NUMBER = 1;
-const MAX_BIWEEKLY_CONTEST_NUMBER = 100;
+const MAX_BIWEEKLY_CONTEST_NUMBER = 110;
 const WEEKLY_CONTEST_URL = 'https://leetcode.com/contest/weekly-contest-';
 const BIWEEKLY_CONTEST_URL = 'https://leetcode.com/contest/biweekly-contest-';
 
